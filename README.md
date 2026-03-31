@@ -65,7 +65,7 @@ Sou um desenvolvedor em aprendizado com foco em JavaScript, com experiência pr�
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub)
 
-## 🚀 Filosofia
+##  Filosofia
 
 > _"Evoluir um pouco todos os dias é melhor do que esperar o momento perfeito.  
 > A prática constante constrói resultados reais."_
