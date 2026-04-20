@@ -60,7 +60,7 @@ Sou um desenvolvedor em aprendizado com foco em JavaScript, com experiÃªncia prÃ
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git)
